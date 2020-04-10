@@ -4,4 +4,4 @@ applications:
   # Add your name/initials to make the hostname unique
   host: spring-music-cf-bhk
   domain: cfapps.io
-  path: pre-built/spring-music.war
+  path: C:\Users\user\Documents\capgemini\pcf music\spring-music\spring-music\pre-built
